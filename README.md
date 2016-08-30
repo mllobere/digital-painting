@@ -23,6 +23,7 @@ Some thoughts/ideas
 
  - The machine could be connected to internet. This way, we could create a community painting. A person could give and order to the machine via a website, after X orders, the painting would be finish.  
  - We could potentially create multiple machines that would give different results
+ - Various sources of input : API (GPS, google search, weather), Video/Audio flow (e.g Movie), user
 
 Machine 1
 ------------
