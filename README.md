@@ -3,7 +3,7 @@ Digital Painting!
 
 Intro
 --------
-I am starting this project which has been in my head for a long time now. I like drawing/painting, and am also a software developper, I always thought it could be a good idea to combine the real world of painting with the quite mechanic side of the computer world. 
+I am starting this project which has been in my head for a long time now. I like drawing/painting, and am also a software developper, I always thought it could be a good idea to combine the real world of painting with the electronic/mechanic side of the computer world. 
 
 Ideas behind 
 ------------------
@@ -16,7 +16,7 @@ This project is going to be built along a certain line of action :
  
 Existing
 -----------
-Drawing machines are quite common around the web, it is not in the frame of this project to be unique. I would like to avoid any kind of 2/3 axes machine whether that be on a horizontal or vertical plane. 
+Drawing machines are quite common around the web, so it is not in the frame of this project to be unique. I would like to avoid any kind of "flat" 2/3 axes machine whether that be on a horizontal or vertical plane. 
 
 Some thoughts/ideas
 ------------------------------
@@ -34,6 +34,8 @@ Machine 1
  - Nema 17
  - HAT
  - Wooood
+
+For this machine, we are using the Adafruit DC Hat to control 2 steppers motors. Raspberry Pi is running rasbian and we are coding in python. The machine is using a drum made in metal and a linear axis. For now, I am only using 2 axis, but I might need to add a third axis later on. A belt is running around the drum to make it turn, also another belt is driving the linear axis. 
 
 #### - Flow
 
